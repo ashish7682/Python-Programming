@@ -1,0 +1,3 @@
+var=()
+print(type(var))
+
