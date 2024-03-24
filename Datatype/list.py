@@ -43,9 +43,8 @@ print(list2[1:4])#--O/P-['ankit', True, 10.6]---#
 
 print(list2.count('ankit'))
 print(list2.count(10))
-# print(list.count(20))--gives error
-# print(list.count(10.6))---gives error not applicable for float 
-
+print(list2.count(20))
+print(list2.count(10.6))
 #-------------index------------------#
 
 print(list2.index(10.6))
