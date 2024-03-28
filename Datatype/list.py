@@ -105,4 +105,5 @@ list2=["ankush","ankit"]
 n1,n2=list2
 print(n1)
 print(n2)
+print(n1)
 
